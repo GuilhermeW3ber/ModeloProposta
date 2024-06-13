@@ -12,6 +12,7 @@
 </template>
 
 <script>
+ /* eslint-disable */
 import Navbar from '@/components/Navbar.vue';
 import Hero from '@/components/Hero.vue'
 import OverView from '@/components/OverView.vue'
@@ -22,7 +23,7 @@ import Contact from '@/components/Contact.vue'
 import Whatsapp from '@/components/Whatsapp.vue'
 
 export default {
-  name: 'HelloWorld',
+  name: 'Project',
   components: {
     Navbar,
     Hero,

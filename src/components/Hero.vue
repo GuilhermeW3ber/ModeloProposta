@@ -11,7 +11,12 @@
             </div>
             <div class="hero-content">
                 <div class="hero-content-text">
-                    <h1 id="hero-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum et aliquam itaque veritatis, provident nihil dignissimos impedit explicabo reiciendis omnis illo repudiandae autem voluptates accusamus. Facilis assumenda iste quidem veniam!</h1>
+                    <h1 id="hero-text">
+                        "Segue em proposta um orçamento definitivo referente ao serviço de desenvolvimento de software para o sistema de administração de estoque do almoxarifado.
+                        <br> <br> Estamos felizes em contribuir com nosso trabalho ao crescimento desta operação. Esperamos que este documento possa ilustrar de uma melhor forma o processo de elaboração da aplicação e seus requisitos.
+                        <br> <br> Será um prazer trabalhar com a Primeira Igreja do Evangelho Quadrangular."
+                        <br> <br> - Guilherme Weber, Ágora
+                    </h1>
                 </div>
             </div>
         </div>

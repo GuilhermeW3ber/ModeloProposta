@@ -2,12 +2,15 @@
     <div class="concept-background">
         <div class="contact-container">
             <div class="contact-columns">
-                <h2 id="sub">Lorem ipsum dolor sit amet </h2>
+                <h2 id="sub">Fale conosco, dê opiniões e sugestões. </h2>
                 <h1 id="title">Contato</h1>
-                <h2 id="sub-content">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa ducimus eius fuga eveniet eum. Iste exercitationem corrupti voluptatem dolorum? In, nesciunt adipisci modi velit excepturi a ex ipsam iste debitis!</h2>
+                <h2 id="sub-content">Caso haja dúvidas quanto ao escopo do projeto, manutenções dentro e pós-garantia, ou seja necessária alguma alteração, sinta-se livre para entrar em contato conosco através de nosso telefone e WhatsApp:
+                    <br><br> +55 (41) 99242-0603
+                </h2>
+                <a id="button" href="https://api.whatsapp.com/send?phone=5541992420603">Whatsapp</a>
             </div>
             <div class="contact-columns">
-                <h2 id="sub-content-info">Lorem ipsum dolor sit amet consectetur adipisicing elit.</h2>   
+                <h2 id="sub-content-info">Disponíveis para resolver todos os seus problemas em forma de software.</h2>   
             </div>
             <div class="contact-columns" id="collumn-image"></div>
         </div>

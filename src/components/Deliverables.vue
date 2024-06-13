@@ -3,7 +3,7 @@
         <div class="deliverables-content-container">
             <div class="deliverables-content">
                 <div class="deliverables-title">
-                    <h2 id="sub">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h2>
+                    <h2 id="sub">Uma apresentação direta de itens necessários para aplicação.</h2>
                     <h1 id="title">Entregas</h1>
                 </div>
                 <div class="overview-content-image"></div>
@@ -12,15 +12,15 @@
                 <div class="hero-content-text">
                     <div class="text-container">
                         <h2 id="hero-sub">Funções:</h2>
-                        <h1 id="hero-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum et aliquam itaque veritatis, provident nihil dignissimos impedit explicabo reiciendis omnis illo repudiandae autem voluptates accusamus. Facilis assumenda iste quidem veniam!</h1>
+                        <h1 id="hero-text">Adição de Produtos e Clientes; Categorias, Marcas e Modelos Modulares; Registro de Alocações Efetuadas, Devoluções e Em Andamento; Calculadora de Valor Patrimonial Geral, Somando os Valores Individuais Inseridos no Cadastro do Produto; Ação de Consulta com Filtros Personalizados e Por Código de Barras Cadastrados.</h1>
                     </div>
                     <div class="text-container">
                         <h2 id="hero-sub">Recursos:</h2>
-                        <h1 id="hero-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum et aliquam itaque veritatis, provident nihil dignissimos impedit explicabo reiciendis omnis illo repudiandae autem voluptates accusamus. Facilis assumenda iste quidem veniam!</h1>
+                        <h1 id="hero-text">Serão necessárias uma estrutura de Hospedagem VPS (servidor virtual privado), Domínio para a aplicação e um Banco de Dados Cloud. O sistema será desenvolvido utilizando do framework Vue3 e extensões para atingir as demandas necessárias, assim como NodeJS para a operação do sistema. Ao fim, resultando em um software completo.</h1>
                     </div>
                     <div class="text-container">
                         <h2 id="hero-sub">Telas:</h2>
-                        <h1 id="hero-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum et aliquam itaque veritatis, provident nihil dignissimos impedit explicabo reiciendis omnis illo repudiandae autem voluptates accusamus. Facilis assumenda iste quidem veniam!</h1>
+                        <h1 id="hero-text">A aplicação contará com 6 telas totais, estando sujeitas a adição conforme a necessidade do cliente, buscando manter sua estrutura de fácil compreensão e padronizada. Estas serão: Central (apresentando médias gerais para fácil acesso), Produtos, Pedidos, Clientes e Alocados.</h1>
                     </div>
                 </div>
             </div>

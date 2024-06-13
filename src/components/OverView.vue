@@ -10,7 +10,7 @@
             <div class="overview-content">
                 <div class="hero-content-text">
                     <h2 id="hero-sub">Detalhes:</h2>
-                    <h1 id="hero-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum et aliquam itaque veritatis, provident nihil dignissimos impedit explicabo reiciendis omnis illo repudiandae autem voluptates accusamus. Facilis assumenda iste quidem veniam!</h1>
+                    <h1 id="hero-text">Para o desenvolvimento de uma aplicação ou sistema, é preciso seu planejamento adequado. De tal forma, serão ilustrados os limites e demandas relativas para seu devido funcionamento, solução dos problemas vigentes e objetivos de nossos clientes. Serão abordados os tópicos: Entregas (Funções, Recursos e Telas), Conceito e Orçamento.</h1>
                 </div>
             </div>
         </div>
