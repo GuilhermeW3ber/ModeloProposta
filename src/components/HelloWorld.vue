@@ -3,7 +3,6 @@
     <Navbar/>
     <Hero/>
     <OverView/>
-    
     <Deliverables/>
     <Concept/>
     <Estimate/>
@@ -13,7 +12,7 @@
 </template>
 
 <script>
-import Navbar from '@/components/Navbar.vue'
+import Navbar from '@/components/Navbar.vue';
 import Hero from '@/components/Hero.vue'
 import OverView from '@/components/OverView.vue'
 import Concept from '@/components/Concept.vue'

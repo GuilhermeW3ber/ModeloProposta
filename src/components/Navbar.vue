@@ -4,7 +4,7 @@
             <div class="navbar-wrapper">
                 <div class="navbar-content-left">Primeira IEQ</div>
                 <div class="navbar-content-center">Software de Gerencimento</div>
-                <div class="navbar-content-rigth"> 05/06/2024</div>
+                <div class="navbar-content-right"> 05/06/2024</div>
             </div>
         </nav>
     </div>
